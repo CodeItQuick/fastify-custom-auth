@@ -1,7 +1,5 @@
 <template>
-  <v-app>
-    <router-view />
-  </v-app>
+  <Registration />
 </template>
 
 <script setup>
